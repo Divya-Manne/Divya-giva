@@ -171,8 +171,6 @@
     margin-bottom: 30px;
     padding: 10px;
     border-radius: 10px;
-    /* position: relative;
-    overflow: hidden; */
     margin-left: 40px;
     margin-right: 40px;
 }
@@ -410,26 +408,15 @@
 .offer{
     background-color: #f0f0f0;
 }
-
-
-
 .container{
     background-color: #f0f0f0;
-    
 }
-/* .input{
-    width: 100%; 
-    padding: 5px 10px;
-    font-size: 16px;
-    margin-left: 8%;
-    
-    box-sizing:px; */
 .input {
     display: block;
     margin-top: -50px;
     margin-left: 60px;
     padding: 5% 5%;
-    width:50%;
+    width:55%;
     background-color: #f0f0f0;
     
 }
@@ -439,22 +426,15 @@
     width:50%;
     font-size: x-large;
     background-color: #f0f0f0;
-
 }
-
-
-
-
 .google{
     
     background-color: #f0f0f0;
+    
 }
 .google .img7{
     margin-left: 8.5%;
-    
-
 }
-
 .google .img8{
     
     margin-left: 30%;
@@ -469,6 +449,39 @@
     font-size: 30px;
     padding: 2%;
 
+}
+.search{
+    background-color: #f0f0f0;
+}
+.search h4{
+    margin-top: 30%;
+    margin-left: 10%;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+.matter img{
+    margin-left: 9.3%;
+    width: 80%;
+    margin-top: 15px;
+
+}
+.matter{
+    background-color: #f0f0f0;
+}
+.input i {
+    margin-top: -56px;
+    margin-left: -45px;
+    font-size: 25px;
+    
+   
+}
+
+#input i {
+    font-size: 30px;
+    margin-top: -50px;
 }
 
 .rushitha {
